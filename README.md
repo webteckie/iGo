@@ -29,7 +29,7 @@ Using the Visual Studio Code's Git Clone command clone this repo.
 To verify the setup of your Go environment, open a Terminal window in Visual Studio Code and do the following:
 
     - cd "<cloned-repo-location>\iGO\src
-    - run "go run .\TestConsole.g"
+    - run "go run .\TestConsole.go"
 
     Should see a few prompts with single key answers.
     
