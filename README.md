@@ -3,7 +3,11 @@
 ## Download and Install Compiler
 https://golang.org/doc/install?download=go1.13.7.windows-amd64.msi
 
-Ensure the GOPATH is correctly set to the installed location (e.g., c:\Go)
+Ensure the GOPATH is correctly set to the location of where you want your project packages installed (e.g., C:\Users\me\Source\Repos\GitHub\GoPath).
+
+Do not confuse GOPATH with GOROOT!!! GOROOT is the location of the Go compiler binaries (e.g., c:\Go) and thus should be in your system path.
+
+You can see the value of each by running "go env" in a terminal.
 
 ## Visual Studio Code Editor
 Preferably use Visual Studio Code as the editor of choice for your Go programming. Install the Go extension. Make sure the open instance of Visual Studio Code has picked up the correct GOPATH setting. To verify this you can:
