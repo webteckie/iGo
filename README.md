@@ -25,13 +25,11 @@ Make sure you have installed the Git Extension Pack extension into Visual Studio
 ## Clone this Repo into your local machine
 Using the Visual Studio Code's Git Clone command clone this repo.
 
-## Run Hello World
+## Run The TestConsole
 To verify the setup of your Go environment, open a Terminal window in Visual Studio Code and do the following:
 
     - cd "<cloned-repo-location>\iGO\src
-    - run "go run .\HelloWorld.go"
+    - run "go run .\TestConsole.g"
 
-    Should see something like:
-
-        !... Hello World ...!
+    Should see a few prompts with single key answers.
     
