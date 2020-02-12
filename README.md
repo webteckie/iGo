@@ -1,4 +1,4 @@
-# GO Setup
+# Go Setup
 
 ## Download and Install Compiler
 https://golang.org/doc/install?download=go1.13.7.windows-amd64.msi
