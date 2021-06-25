@@ -3,7 +3,7 @@
 ## Download and Install Compiler
 https://golang.org/dl/
 
-Ensure the GOPATH is correctly set to the location of where you want your project packages installed (e.g., C:\Users\me\Source\Repos\GitHub\GoPath).
+Ensure the GOPATH is correctly set to the location of where you want your project packages installed (e.g., C:\Users\me\go).
 
 Do not confuse GOPATH with GOROOT!!! GOROOT is the location of the Go compiler binaries (e.g., c:\Go) and thus should be in your system path.
 
