@@ -1,7 +1,7 @@
 # Go Setup
 
 ## Download and Install Compiler
-https://golang.org/doc/install?download=go1.13.7.windows-amd64.msi
+https://golang.org/dl/
 
 Ensure the GOPATH is correctly set to the location of where you want your project packages installed (e.g., C:\Users\me\Source\Repos\GitHub\GoPath).
 
